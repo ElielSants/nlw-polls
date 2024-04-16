@@ -23,6 +23,13 @@ app.register(voteOnPoll)
 
 app.register(pollResults)
 
+//app.register(createPool)
+//app.register(createPool)
+//app.register(getPoll)
+//app.register(voteOnPoll)
+
+//app.register(pollResults)
+
 
 
 
